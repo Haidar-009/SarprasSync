@@ -1,0 +1,14 @@
+{
+    "name": "haidar/inventaris-sekolah",
+    "description": "Sistem Inventaris Barang Pergudangan Sekolah",
+    "type": "project",
+    "require": {
+        "php": ">=7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}
